@@ -17,7 +17,7 @@
  - テキストファイルの拡張子は md にしましょう。
  
  マークダウン記法に関しては以下のリンクを参照してください。  
- [Markdownで行こう！](https://gist.github.com/wate/7072365])
+ [Markdownで行こう！](https://gist.github.com/wate/7072365)
  
  その他は自由！　パワポの資料を入れようとPDFを入れようと画像を入れようと自由。
  
